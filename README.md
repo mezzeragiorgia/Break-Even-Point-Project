@@ -1,4 +1,4 @@
-# Break-Even-Point-Ptoject
+# Break-Even-Point-Project
 PROGRAMMA JAVA CHE CALCOLA E MOSTRA NEL PIANO CARTESIANO IL BREAK EVEN POINT DI UN'AZIENDA.
 
 Il programma è molto semplice, si portino gli slider ai valori che si vogliono esaminare e il programma restituirà il BEP.
